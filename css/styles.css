@@ -782,11 +782,16 @@ img {
 }
 .send-icon {
   display: block;
+  width: 24px;
+  height: 24px;
   margin-left: 10px;
 }
 .sign {
   display: flex;
   justify-content: space-between;
+}
+.sign-wraper {
+  display: inline-flex;
 }
 /* PORTFOLIO*/
 
